@@ -1,4 +1,3 @@
-deploy
-/src/.git
-MedicalInfo.PublishSettings
-medicalinfo.PublishSettings
+/stable/*
+stable
+deploy.sh

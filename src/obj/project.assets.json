@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/romeu/.nuget/packages/": {}
+    "/home/daniel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/romeu/www/Medical.Info/src/src.csproj",
+      "projectUniqueName": "/home/daniel/DRIVE/SITES/Medical.Info/src/src.csproj",
       "projectName": "src",
-      "projectPath": "/home/romeu/www/Medical.Info/src/src.csproj",
-      "packagesPath": "/home/romeu/.nuget/packages/",
-      "outputPath": "/home/romeu/www/Medical.Info/src/obj/",
+      "projectPath": "/home/daniel/DRIVE/SITES/Medical.Info/src/src.csproj",
+      "packagesPath": "/home/daniel/.nuget/packages/",
+      "outputPath": "/home/daniel/DRIVE/SITES/Medical.Info/src/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/romeu/.nuget/NuGet/NuGet.Config"
+        "/home/daniel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
       }
     }
   }

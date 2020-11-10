@@ -32,7 +32,7 @@ namespace src
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Medical.Info Started - Test!");
+                    await context.Response.WriteAsync("Hello World!");
                 });
             });
         }
